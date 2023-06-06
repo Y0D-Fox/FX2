@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="COMP_MAN.Properties" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="money" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="point" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="status" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ЛОХ</Value>
+    </Setting>
+    <Setting Name="moon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нормальное</Value>
+    </Setting>
+    <Setting Name="pc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="flash" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="hard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="modem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="cd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="soundblaster" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="system" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="antivirus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="program" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="bbs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Пока нет</Value>
+    </Setting>
+    <Setting Name="job" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Без работы</Value>
+    </Setting>
+    <Setting Name="salary" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="month" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="years" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1998</Value>
+    </Setting>
+    <Setting Name="day" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="time" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="monye" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

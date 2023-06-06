@@ -1,0 +1,176 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>
+    ----------------------------------------------------------------------------------
+    Компьютерщик   Version 1.51   &lt;Описание игры&gt;
+    ----------------------------------------------------------------------------------
+                      Copyright 1998 by Kokarev Igor
+
+
+                                ПРЕДИСЛОВИЕ:
+                                -----------------------------
+
+      Эту игру вы начинаете простым рядовым 
+        чайником, постепенно продвигаясь по            
+     карьерной лестнице до профессионального     
+     хакера. Вам предстоит купить компьютер и по   
+    ходу  игры его постепенно модернизировать до 
+   более крутой конфигурации, необходимо также
+        устроиться на какую-нибудь работу чтобы 
+                 иметь в кармане много баксов, 
+        oни нужны вам для развлечений, некоторых    
+  хакерских,  программ и компьютерных апгрейдов.
+
+
+        ОПИСАНИЕ ОСНОВНЫХ РАЗДЕЛОВ ИГРЫ:
+        ---------------------------------------------------------------------------
+
+                          &lt;Компьютерные дела&gt;
+        Здесь вы покупаете свой комп и постепенно 
+       модернизируете его, за деньги естественно
+
+
+                          &lt;Установка программ&gt;
+            Доступна установка на ваш компьютер 
+                    операционных систем и систем 
+        программирования, причем для некоторых
+              программ требуется определенная 
+          операционная система, например для           
+                 VisualBasic'a нужна Windows95
+    Также в этом пункте есть кнопка &lt;Антивирус&gt; -
+   здесь осуществляется проверка на вирусы, при
+                    наличии антивируса конечно.
+       За отлов вирусов даются дополнительные 
+           очки, а также снижается вероятность
+                      их атак на ваш компьютер
+            
+
+
+                                 &lt;Хакерство&gt;
+     Самый сложный и интересный раздел игры, 
+      доступен лишь при вашем статусе не ниже 
+       Юзера. Вы может взламывать различные 
+      компьютерные системы, банки, секретные        
+     архивы и т.д. Для этого вам необходимы спе-    
+ циальные хакерские программы,  которые вы мо-  
+ жете  купить или же обменять на некоторые свои
+           
+
+                               &lt;Работа с BBS&gt;
+       Здесь вы можете создать свою ББС'ку при  
+наличии,  конечно, компьютера, модема, памяти и   
+              винчестера,  или же звонить на уже              
+        существующую CinsBBS. На последней вы
+    можете читать доску сообщений, за это даются
+               дополнительные очки, закачивать 
+          файлы туда, и наоборот списывать себе.
+
+
+                              &lt;Поиск работы&gt;
+              Чтобы иметь деньги что нужно ? 
+   Правильно - работа В данном разделе вы делаете 
+            поиск  доступных работ и затем, когда   
+найдете подходящую для себя,  устраиваетесь на     
+  нее. Понятно что платят на разных работах по 
+          разному и чем выше будет ваш статус, тем      
+    более высокооплачиваемой будет предлагаемая  
+           вам работа. Устроиться на новую работу 
+       можно только до 15 числа каждого месяца
+          Кстати, если у вас плохое настроение, то
+      ваша работоспособность несколько падает
+                  и платят вам соответственно.
+
+
+                               &lt;Развлечения&gt;
+      Иногда ваше настроение может быть не очень 
+хорошим и тогда вам так кстати могут пригодиться 
+             различные развлечения, отнимающие           
+   некоторое время и энное  количество денег,
+    но зато отлично снимающие различного рода 
+                                   депрессии.
+
+
+
+                НЕКОТОРЫЕ МОМЕНТЫ ИГРЫ
+                -------------------------------------------------------
+
+              Вирусы: иногда атакуют ваш компьютер, 
+                             отличной панацей против них           
+                             может стать свежий антивирус
+
+        Депрессии: нехорошие перепады вашего 
+                             настроения могут привести вас к 
+                             преждевременной кончине
+
+       Почти за каждое полезное действие в игре 
+            даются очки или добавляются новые 
+                             возможности и, 
+              соответственно, растет ваш статус
+
+
+  Дальше не имеет смысла описывать все моменты 
+ игры, чтобы вы не потеряли интерес к ней - думаю  
+     вы догадаетесь до всего остального сами :)
+
+                     ------------------------------------------
+                      Описание от 15.02.1998</value>
+  </data>
+</root>
